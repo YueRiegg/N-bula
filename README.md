@@ -10,7 +10,7 @@ seria utilizado para guardar credenciais de artistas, de usuários, e guardar as
 Utilizamos esse método para definir a existência de uma pasta pai e os arquivos dentro dela para buscarem as
 importações dentro dessa pasta pai.
 
-# Qualquer tentativa de uso indevido, ou sem permissão desse código será tomado como furto de propriedade intelectual.
+# Qualquer tentativa de uso indevido, ou sem permissão desse código será tomado como furto de propriedade intelectual e será tratado judicialmente como tal.
 
 
 
