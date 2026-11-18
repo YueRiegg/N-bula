@@ -6,7 +6,7 @@ Date serve para indicar o horário atual, para que o python possa utilizar.
 Embora não esteja aplicada diretamente no protótipo de back-end atual, o banco de dados (BD)
 seria utilizado para guardar credenciais de artistas, de usuários, e guardar as músicas.
 
-# "__init__.py"
+# '_ _ init _ _.py'
 Utilizamos esse método para definir a existência de uma pasta pai e os arquivos dentro dela para buscarem as
 importações dentro dessa pasta pai.
 
